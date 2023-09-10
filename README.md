@@ -1,11 +1,54 @@
-![](https://raw.githubusercontent.com/appsmithorg/appsmith/release/static/appsmith_logo_primary.png)
+## BioInsight - your ally in simplifying bio-medical research
 
-This app is built using Appsmith. Turn any datasource into an internal app in minutes. Appsmith lets you drag-and-drop components to build dashboards, write logic with JavaScript objects and connect to any API, database or GraphQL source.
+## Our Users
+1. **Bio-researchers** in pursuit of credible and quick data.
+2. **Health-tech Startups** aiming to ground their innovations in solid research.
+3. **Pharmaceutical Companies** keen on enhancing their research and development process.
 
-![](https://raw.githubusercontent.com/appsmithorg/appsmith/release/static/images/integrations.png)
+## Pain Points
+Our users face distinct challenges:
 
-### [Github](https://github.com/appsmithorg/appsmith) • [Docs](https://docs.appsmith.com/?utm_source=github&utm_medium=social&utm_content=appsmith_docs&utm_campaign=null&utm_term=appsmith_docs) • [Community](https://community.appsmith.com/) • [Tutorials](https://github.com/appsmithorg/appsmith/tree/update/readme#tutorials) • [Youtube](https://www.youtube.com/appsmith) • [Discord](https://discord.gg/rBTTVJp)
+1. **Tedious Literature Reviews** — Navigating through a sea of information.
+2. **Plagiarism and Competition** — Ensuring originality in a competitive landscape.
+3. **Data Analysis** — The draining task of analyzing and interpreting complex research data.
+4. **Recruitment** — Finding the right bio/med experts for their teams.
 
-##### You can visit the application using the below link
+## Our Solution
 
-###### [![](https://assets.appsmith.com/git-sync/Buttons.svg) ](https://app.appsmith.com/applications/64fc619586fe8853288159bd/pages/64fc619586fe8853288159c0) [![](https://assets.appsmith.com/git-sync/Buttons2.svg)](https://app.appsmith.com/applications/64fc619586fe8853288159bd/pages/64fc619586fe8853288159c0/edit)
+1. **Semantic Search** — Top 5 sources with summaries, facilitating swift and reliable research.
+2. **ChatGPT Integration** — Instant answers from top sources, enhancing productivity.
+3. **Resource and Author Ranking** — Guiding users to the most credible choices, effortlessly.
+4. **Future Functionality** — A vision to automate chart creation and augment author searches, simplifying research and recruitment further.
+
+## Market Statistics
+The canvas is vast, with millions of researchers and numerous startups and pharmaceutical companies globally, creating a substantial user base for BioInsight.
+
+## Competition
+Our edge over others:
+
+1. **Direct Site Search** — We offer ranked results, unlike generic searches, providing a guided pathway to reliable data.
+2. **Google** — A more focused alternative to generic Google searches, directing users precisely to what they seek.
+3. **ChatGPT+** — We promise better functionality at half the price, setting a new benchmark in affordability and efficiency.
+
+## Revenue Model
+We have strategically priced our services:
+
+- **Freemium** — Semantic search with source and author ranking at no cost.
+- **Premium at $10/month** — A rich feature set including automated chart creation and enhanced author search functionalities, a service that is set to be a game-changer at just half the cost of ChatGPT+.
+
+## Our Team
+The force behind BioInsight:
+
+1. **Vasile** — The pillar integrating seamless backend operations and crafting the solution architecture.
+2. **Andreea** — Bringing a medical background to steer the project with a deep understanding of user needs.
+3. **Andrei** — Transforming the vision into reality through adept low-code mobile app development.
+
+## User Acquisition Strategies
+Our roadmap to reach the users is multi-faceted, leveraging:
+
+1. **Academic Partnerships** — Collaborating with educational institutions to integrate BioInsight into their research modules.
+2. **Industry Platforms and Conferences** — Establishing a presence where the industry congregates to showcase our edge.
+3. **Online Communities** — Engaging with professionals and enthusiasts in relevant online forums and social media groups, sharing insights and updates about our offerings.
+4. **Content Marketing** — Crafting insightful blogs and webinars to attract organic traffic and establish ourselves as thought leaders in the space.
+5. **Referral Programs** — Encouraging users to refer BioInsight to peers, fostering a community of satisfied users who become our advocates.
+
