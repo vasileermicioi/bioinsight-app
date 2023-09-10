@@ -1,0 +1,26 @@
+query questionAnswer($query: String) {
+  summaryInsights(engineID: "23343", searchInput: {query: $query, type: [QA]}) {
+    data {
+      __typename
+      ... on QAInsight {
+        question
+        answers {
+          answer
+          document {
+            id
+            title
+            abs
+            source
+            __typename
+          }
+          took
+          context
+          probability
+          __typename
+        }
+        __typename
+      }
+    }
+    __typename
+  }
+}

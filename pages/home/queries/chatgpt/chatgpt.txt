@@ -1,0 +1,20 @@
+{
+    "model": "gpt-3.5-turbo",
+    "max_tokens": 256,
+		"temperature": 0.2,
+    "messages": [
+        {
+            "role": "system",
+            "content": {{`Answer the question below from the information provided in the context.						
+						${this.params.context}		
+						
+						Make a summary of the information provided in the context as an answer to the user's question, but act like it is your own knowledge.
+						`}}
+					
+        },
+        {
+            "role": "user",
+            "content": {{this.params.query}}
+        }
+    ]
+}
