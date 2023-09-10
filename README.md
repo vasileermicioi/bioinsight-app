@@ -1,5 +1,8 @@
 ## BioInsight - your ally in simplifying bio-medical research
 
+![bioinsight-app](https://github.com/vasileermicioi/bioinsight-app/assets/45198547/bc6c1432-696d-45c5-9ef6-be3a45a3d0e4)
+
+
 ## Our Users
 1. **Bio-researchers** in pursuit of credible and quick data.
 2. **Health-tech Startups** aiming to ground their innovations in solid research.
